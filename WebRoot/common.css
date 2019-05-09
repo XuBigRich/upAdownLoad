@@ -1,0 +1,24 @@
+body{
+	font-size:11pt;
+}
+input{
+	border:1px solid black;
+}
+table{
+	font-size:11pt;
+	background-color:black;
+	border:0px;
+}
+tr{
+	height:30px;
+	background-color:white;
+}
+th{
+	background-color:#AAAAAA;
+}
+td{
+	text-align:center;
+}
+.nob{
+	border:0px;
+}
